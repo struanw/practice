@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './cant_image.JPG';
+import logo from '../../src/can_image.JPG';
 import './App.css';
 
 function App() {
