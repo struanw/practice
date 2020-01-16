@@ -1,13 +1,20 @@
 import React from 'react';
 import Background from './Background'
+import AboutPage from './AboutPage'
 
 
 const App = () => {
   return (
-    <div>
-      <Background />
-    </div>
+    <>
+       <Background />
+    </>
   )
 }
 
 export default App;
+
+
+// AboutPage
+// FallingObject
+// SwapImageOfMe
+// Kaleidoscope
