@@ -1,6 +1,6 @@
 import React from 'react';
 import Background from './Background'
-import AboutPage from './AboutPage'
+//import AboutPage from './AboutPage'
 
 
 const App = () => {
@@ -16,5 +16,6 @@ export default App;
 
 // AboutPage
 // FallingObject
+// mushroom 
 // SwapImageOfMe
 // Kaleidoscope
