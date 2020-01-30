@@ -1,3 +1,13 @@
+.widget-details .visible {
+  display: block;
+}
+
+.widget-details .hidden {
+  display: none;
+}
+
+
+
 /* 
 
 .App {
